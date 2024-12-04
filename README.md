@@ -77,31 +77,9 @@ This project focuses on analyzing the **Global Superstore dataset** using Python
 
 ---
 
-## 📌 **Recommendations**
-1. **Optimize Discounts**:
-   - Limit discounts above 30%, as they reduce profitability.
-2. **Focus on High-Margin Regions**:
-   - Prioritize regions with consistent profit margins for expansion.
-3. **Invest in High-Performing Categories**:
-   - Allocate resources to categories like "Technology" and "Furniture."
-4. **Seasonal Promotions**:
-   - Target high-sales months with strategic marketing campaigns.
 
----
 
-## 📂 **Project Files**
-- **Python Code**: Contains all data cleaning, feature engineering, and analysis steps.
-- **Dataset**: Global Superstore data file used for the project.
-- **Visualizations**: Key plots generated during the analysis.
 
----
-
-## 🌟 **Let's Connect!**
-📫 [Your Email Address]  
-💼 [Your LinkedIn Profile](#)  
-🖥️ [Portfolio Website](#)
-
-If you find this project useful, feel free to ⭐ star the repository!
 
 # 📊 Global Superstore Data Analysis
 
@@ -186,7 +164,7 @@ if "Region" in df.columns:
     plt.show()
 ```
 
-Analyze Discounts' Effect on Profits
+Analyze Discounts Effect on Profits
 ```python
 
 # Analyze the effect of discounts on profits
@@ -251,3 +229,21 @@ if "Segment" in df.columns:
     plt.ylabel("Sales")
     plt.show()
 ```
+
+## 📌 **Recommendations**
+1. **Optimize Discounts**:
+   - Limit discounts above 30%, as they reduce profitability.
+2. **Focus on High-Margin Regions**:
+   - Prioritize regions with consistent profit margins for expansion.
+3. **Invest in High-Performing Categories**:
+   - Allocate resources to categories like "Technology" and "Furniture."
+4. **Seasonal Promotions**:
+   - Target high-sales months with strategic marketing campaigns.
+
+---
+
+## 📂 **Project Files**
+- **Python Code**: Contains all data cleaning, feature engineering, and analysis steps.
+- **Dataset**: Global Superstore data file used for the project.
+- **Visualizations**: Key plots generated during the analysis.
+If you find this project useful, feel free to ⭐ star the repository!
