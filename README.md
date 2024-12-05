@@ -120,7 +120,6 @@ if "Sales" in df.columns and "Profit" in df.columns:
 ```
    ![image](https://github.com/user-attachments/assets/1e51ba2e-91bf-4101-894f-c5f9893d9fa9)
 ### Bar Chart of Average Sales by Category
-5. **Bar Chart (Average Sales by Category)**:
    - Identifies product categories driving the most revenue.
 ``` python
 if "Category" in df.columns:
