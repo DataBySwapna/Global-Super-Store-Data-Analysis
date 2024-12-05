@@ -65,7 +65,7 @@ sns.heatmap(correlation_matrix, annot=True, cmap="coolwarm", fmt=".2f")
 plt.title("Correlation Heatmap (Seaborn)")
 plt.show()
 ```
-  ![image](https://github.com/user-attachments/assets/18f6e622-bd4f-43d5-a927-b077b3cbc216)   
+   ![image](https://github.com/user-attachments/assets/18f6e622-bd4f-43d5-a927-b077b3cbc216)   
 ### Line Plot
 **Line Plot (Monthly Sales Trend)**:
    - Reveals seasonal trends in sales over time.
@@ -199,4 +199,5 @@ plt.show()
 - **Python Code**: Contains all data cleaning, feature engineering, and analysis steps.
 - **Dataset**: Global Superstore data file used for the project.
 - **Visualizations**: Key plots generated during the analysis.
+---
 If you find this project useful, feel free to ⭐ star the repository!
