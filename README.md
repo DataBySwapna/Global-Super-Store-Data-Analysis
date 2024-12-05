@@ -1,5 +1,8 @@
 # 📊 **Global Superstore Data Analysis** 🛍️
 This project focuses on analyzing the **Global Superstore dataset** using Python. The analysis aims to uncover insights related to sales, profit, discounts, and regional performance through descriptive statistics, correlations, and a variety of visualizations.
+
+  ![image](https://github.com/user-attachments/assets/c7f53389-5541-4c86-9605-69ddee6039b1)
+
 ---
 ## 🎯 **Objective**
 1. Understand trends in sales, profit, and discounts.
